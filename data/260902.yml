@@ -1,0 +1,61 @@
+about:
+  description: :rocket: Release projects quickly and easily with JReleaser
+  license: Apache-2.0
+  homepage: https://jreleaser.org
+  head: f7d5497
+  archived: false
+  latestVersion: v1.26.0
+  collectedAt: 2026-09-02T04:45:31Z
+timeline:
+  created: 2020-11-28
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 1238
+  watcher: 12
+  fork: 159
+  release: 47
+  contributor: 114
+  pullRequest: 129
+  issue: 1327
+language:
+  Java: 5557845
+  Groovy: 1033911
+  Go Template: 189079
+  Shell: 59177
+  Tcl: 12113
+  Smarty: 943
+totalLine: 6853068
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 25
+  last90d:
+    since: 2026-06-04
+    release: 3
+    mergedPR: 5
+    openPR: 1
+    closedIssue: 11
+    openIssue: 2
+    commit: 54
+  last180d:
+    since: 2026-03-06
+    release: 4
+    mergedPR: 22
+    openPR: 1
+    closedIssue: 32
+    openIssue: 9
+    commit: 119
+  last360d:
+    since: 2025-09-07
+    release: 7
+    mergedPR: 47
+    openPR: 1
+    closedIssue: 75
+    openIssue: 21
+    commit: 257
