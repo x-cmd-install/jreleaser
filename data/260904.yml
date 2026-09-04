@@ -7,7 +7,7 @@ about:
   head: f7d5497
   archived: false
   latestVersion: v1.26.0
-  collectedAt: 2026-09-04T19:45:46Z
+  collectedAt: 2026-09-04T20:55:53Z
 timeline:
   created: 2020-11-28
   lastCommit: 2026-08-31
@@ -85,6 +85,74 @@ total:
   openIssue: 121
   commit: 3020
 ---
+path: /home/runner/.x-repo/github.com/jreleaser/jreleaser
+collectedAt: 2026-09-04T20:55:55Z
+loc:
+  Java:
+    code: 107558
+    comments: 28263
+    blanks: 23594
+    files: 1240
+  Groovy:
+    code: 18771
+    comments: 7190
+    blanks: 4128
+    files: 328
+  Pan:
+    code: 7523
+    comments: 540
+    blanks: 1268
+    files: 279
+  Json:
+    code: 2795
+    comments: 0
+    blanks: 2
+    files: 19
+  Svg:
+    code: 1401
+    comments: 1
+    blanks: 18
+    files: 1
+  Yaml:
+    code: 954
+    comments: 52
+    blanks: 28
+    files: 6
+  Xml:
+    code: 486
+    comments: 53
+    blanks: 48
+    files: 3
+  Sh:
+    code: 364
+    comments: 160
+    blanks: 67
+    files: 7
+  AsciiDoc:
+    code: 170
+    comments: 0
+    blanks: 67
+    files: 3
+  Batch:
+    code: 102
+    comments: 0
+    blanks: 24
+    files: 1
+  Toml:
+    code: 18
+    comments: 35
+    blanks: 4
+    files: 2
+  Markdown:
+    code: 0
+    comments: 163
+    blanks: 6
+    files: 1
+total:
+  code: 140142
+  comments: 36457
+  blanks: 29254
+  files: 1890
 ---
 date: "2026-08-29T08:06:41Z"
 repo:
