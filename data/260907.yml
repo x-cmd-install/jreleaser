@@ -5,7 +5,7 @@ about:
   head: 99949be
   archived: false
   latestVersion: "early-access"
-  collectedAt: 2026-09-07T04:21:40Z
+  collectedAt: 2026-09-07T20:00:51Z
 timeline:
   created: 2020-11-28
   lastCommit: 2026-09-05
@@ -84,7 +84,7 @@ total:
   commit: 3021
 ---
 path: /home/runner/.x-repo/github.com/jreleaser/jreleaser
-collectedAt: 2026-09-07T04:21:45Z
+collectedAt: 2026-09-07T20:00:55Z
 loc:
   Java:
     code: 107697
@@ -283,7 +283,7 @@ checks:
       - 'Info: found contributions from: IBM, apache, asciidoctor, assertj, check-leak, epam, forge, griffon, griffon-plugins, groovyfx-project, gujavasc, hackergarten, ibm, jreleaser, jsr377, junit-pioneer, junit-team, openjdk, openshift, openshiftio, oracle, oracle-actions, ota4j-team, quarkiverse, quarkusio, redis, seam'
 ---
 eget:
-  collectedAt: 2026-09-07T04:21:46+00:00
+  collectedAt: 2026-09-07T20:00:57+00:00
   platform:
     darwin/arm64:
       name:  jreleaser-native-1.26.0-osx-aarch64.zip
