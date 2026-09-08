@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 28996334,
       "digest": "sha256:3ae946479be8d603c62e8fba4cf8cbf4129e3aa92dda50a65d308c70ccd5f475",
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2026-08-31T07:53:47Z",
       "updated_at": "2026-08-31T07:53:48Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-osx-x86_64.zip"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 90889660,
       "digest": "sha256:6afca52867b4f0363f19c02f1fd6b449d0f647bec63fa43556c5d9a66fe5a74c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-31T07:54:05Z",
       "updated_at": "2026-08-31T07:54:07Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-osx-aarch64.zip"
