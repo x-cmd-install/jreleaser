@@ -12,6 +12,28 @@
 x install jreleaser
 ```
 
+## 代码规模
+
+合计: **140,276** 行代码（覆盖前 5 种语言、共 **1868** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Java | 107,697 | 28,282 | 23,603 | 1241 |
+| Groovy | 18,771 | 7,190 | 4,128 | 328 |
+| Pan | 7,523 | 540 | 1,268 | 279 |
+| Json | 2,790 | 0 | 2 | 19 |
+| Svg | 1,401 | 1 | 18 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **6.9 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/jreleaser/jreleaser>
@@ -23,6 +45,25 @@ x install jreleaser
 - **最新版本**: `early-access` (2026-08-31)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 58 个
+
+## 流行度
+
+- **Star**: 1,238 · **Fork**: 159 · **开放 issue**: 1,328 · **贡献者**: 114
+
+## 累计统计
+
+- **发布数**: 47 · **已合并 PR**: 281 · **开放 PR**: 3 · **已关闭 issue**: 1208 · **开放 issue**: 120 · **提交数**: 3021
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 1 | 0 | 5 | 0 | 26 |
+| last60d | 2026-07-12 | 2 | 4 | 1 | 6 | 0 | 32 |
+| 90d | 2026-06-12 | 3 | 6 | 1 | 11 | 1 | 55 |
+| last180d | 2026-03-14 | 4 | 23 | 1 | 30 | 9 | 114 |
+| 360d | 2025-09-15 | 7 | 48 | 1 | 75 | 21 | 258 |
+| last720d | 2024-09-20 | 13 | 91 | 2 | 186 | 45 | 581 |
 
 ## Release 资产
 
@@ -87,43 +128,14 @@ x install jreleaser
 | [jreleaser-tool-provider-1.26.0.jar.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-tool-provider-1.26.0.jar.asc) | 821 B | `other` |
 | [VERSION](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/VERSION) | 7 B | `other` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 1,238 · **Fork**: 159 · **开放 issue**: 1,328 · **贡献者**: 114
+在 [repology.org](https://repology.org/project/jreleaser) 上共有 **7** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 47 · **已合并 PR**: 281 · **开放 PR**: 3 · **已关闭 issue**: 1208 · **开放 issue**: 120 · **提交数**: 3021
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 1 | 0 | 5 | 0 | 26 |
-| 90d | 2026-06-12 | 3 | 6 | 1 | 11 | 1 | 55 |
-| 360d | 2025-09-15 | 7 | 48 | 1 | 75 | 21 | 258 |
-
-## 代码规模
-
-合计: **140,276** 行代码（覆盖前 5 种语言、共 **1868** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Java | 107,697 | 28,282 | 23,603 | 1241 |
-| Groovy | 18,771 | 7,190 | 4,128 | 328 |
-| Pan | 7,523 | 540 | 1,268 | 279 |
-| Json | 2,790 | 0 | 2 | 19 |
-| Svg | 1,401 | 1 | 18 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **6.9 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
-- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.26.0` | ✅ latest |
+| Alpine edge | `1.26.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -134,4 +146,4 @@ jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:18:58Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:09:15Z._
