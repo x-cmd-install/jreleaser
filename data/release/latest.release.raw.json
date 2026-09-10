@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 45995306,
       "digest": "sha256:c821df22b1715a841024ba17c4b5233375c868e6c9dcc81612c38329c8dec628",
-      "download_count": 154,
+      "download_count": 167,
       "created_at": "2026-08-31T07:53:10Z",
       "updated_at": "2026-08-31T07:53:12Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 40,
       "digest": "sha256:f3493c28dbd410edf4ef49ba43c42d53cdb96961cc3da5ee6220516a6d85881c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-31T07:53:12Z",
       "updated_at": "2026-08-31T07:53:13Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0.zip.rmd160"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 93053752,
       "digest": "sha256:f0ffb78f74d1d647836b07aaa54a11965ec6280accc91b2e0d2cdb69e68a27af",
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2026-08-31T07:53:31Z",
       "updated_at": "2026-08-31T07:53:34Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-windows-x86_64.msi"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 29773894,
       "digest": "sha256:054ef6de101f64b5d2fdf7d41a1fc81c086872800cd5276a20a67c0378f24886",
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2026-08-31T07:53:43Z",
       "updated_at": "2026-08-31T07:53:44Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-linux-x86_64.zip"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 94821565,
       "digest": "sha256:356cd1b857873c39f0ce7cdff5473d61355689be602fe5f37646a6465044bf67",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-31T07:53:50Z",
       "updated_at": "2026-08-31T07:53:53Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux-aarch64.zip"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 51082291,
       "digest": "sha256:e601850b1da17b36848953c4c45671b8108b25ba94ee8b35caf37cd656e40639",
-      "download_count": 939,
+      "download_count": 951,
       "created_at": "2026-08-31T07:54:18Z",
       "updated_at": "2026-08-31T07:54:19Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-tool-provider-1.26.0.jar"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 7,
       "digest": "sha256:acef448c3973160e815171b20f8788735d99b01e7bf551b3619bbde1ae1db7a8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-31T07:53:05Z",
       "updated_at": "2026-08-31T07:53:05Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/VERSION"
