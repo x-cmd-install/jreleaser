@@ -4,7 +4,7 @@
 
 :rocket: Release projects quickly and easily with JReleaser
 
-![jreleaser](https://repo.x-cmd.io/jreleaser.svg)
+![jreleaser](https://repo.x-cmd.io/jreleaser.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,69 @@ x install jreleaser
 - **最新版本**: `early-access` (2026-08-31)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 58 个
-- **发布时间**: 2026-08-31T07:53:04Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums_rmd160.txt](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/checksums_rmd160.txt) | 1.9 KiB | `other` |
+| [checksums_rmd160.txt.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/checksums_rmd160.txt.asc) | 821 B | `other` |
+| [checksums_sha256.txt](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/checksums_sha256.txt) | 2.5 KiB | `other` |
+| [checksums_sha256.txt.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/checksums_sha256.txt.asc) | 821 B | `other` |
+| [jreleaser-1.26.0-sboms.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0-sboms.zip) | 773.3 KiB | `other` |
+| [jreleaser-1.26.0-sboms.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0-sboms.zip.asc) | 821 B | `other` |
+| [jreleaser-1.26.0.tar](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0.tar) | 48.9 MiB | `other` |
+| [jreleaser-1.26.0.tar.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0.tar.asc) | 821 B | `other` |
+| [jreleaser-1.26.0.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0.zip) | 43.9 MiB | `other` |
+| [jreleaser-1.26.0.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0.zip.asc) | 821 B | `other` |
+| [jreleaser-1.26.0.zip.rmd160](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0.zip.rmd160) | 40 B | `other` |
+| [jreleaser-1.26.0.zip.sha256](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-1.26.0.zip.sha256) | 64 B | `other` |
+| [jreleaser-all-1.26.0.intoto.jsonl](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-all-1.26.0.intoto.jsonl) | 24.8 KiB | `other` |
+| [jreleaser-ant-tasks-1.26.0.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-ant-tasks-1.26.0.zip) | 43.9 MiB | `other` |
+| [jreleaser-ant-tasks-1.26.0.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-ant-tasks-1.26.0.zip.asc) | 821 B | `other` |
+| [jreleaser-installer-1.26.0-1.aarch64.rpm](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-1.aarch64.rpm) | 90.5 MiB | `runtime/rpm/aarch64` |
+| [jreleaser-installer-1.26.0-1.aarch64.rpm.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-1.aarch64.rpm.asc) | 821 B | `other` |
+| [jreleaser-installer-1.26.0-1.x86_64.rpm](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-1.x86_64.rpm) | 90.8 MiB | `runtime/rpm/x86_64` |
+| [jreleaser-installer-1.26.0-1.x86_64.rpm.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-1.x86_64.rpm.asc) | 821 B | `other` |
+| [jreleaser-installer-1.26.0-osx-aarch64.pkg](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-osx-aarch64.pkg) | 86.7 MiB | `native/darwin/arm64` |
+| [jreleaser-installer-1.26.0-osx-aarch64.pkg.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-osx-aarch64.pkg.asc) | 821 B | `native/darwin/arm64` |
+| [jreleaser-installer-1.26.0-osx-x86_64.pkg](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-osx-x86_64.pkg) | 87.9 MiB | `native/darwin/x64` |
+| [jreleaser-installer-1.26.0-osx-x86_64.pkg.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-osx-x86_64.pkg.asc) | 821 B | `native/darwin/x64` |
+| [jreleaser-installer-1.26.0-windows-x86_64.msi](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-windows-x86_64.msi) | 88.7 MiB | `native/win/x64` |
+| [jreleaser-installer-1.26.0-windows-x86_64.msi.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer-1.26.0-windows-x86_64.msi.asc) | 821 B | `native/win/x64` |
+| [jreleaser-installer_1.26.0-1_amd64.deb](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer_1.26.0-1_amd64.deb) | 86.5 MiB | `runtime/deb/amd64` |
+| [jreleaser-installer_1.26.0-1_amd64.deb.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer_1.26.0-1_amd64.deb.asc) | 821 B | `other` |
+| [jreleaser-installer_1.26.0-1_arm64.deb](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer_1.26.0-1_arm64.deb) | 86.2 MiB | `runtime/deb/arm64` |
+| [jreleaser-installer_1.26.0-1_arm64.deb.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-installer_1.26.0-1_arm64.deb.asc) | 821 B | `other` |
+| [jreleaser-native-1.26.0-linux-aarch64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-linux-aarch64.zip) | 28.8 MiB | `native/linux/arm64` |
+| [jreleaser-native-1.26.0-linux-aarch64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-linux-aarch64.zip.asc) | 821 B | `native/linux/arm64` |
+| [jreleaser-native-1.26.0-linux-x86_64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-linux-x86_64.zip) | 28.4 MiB | `native/linux/x64` |
+| [jreleaser-native-1.26.0-linux-x86_64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-linux-x86_64.zip.asc) | 821 B | `native/linux/x64` |
+| [jreleaser-native-1.26.0-osx-aarch64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-osx-aarch64.zip) | 28.5 MiB | `native/darwin/arm64` |
+| [jreleaser-native-1.26.0-osx-aarch64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-osx-aarch64.zip.asc) | 821 B | `native/darwin/arm64` |
+| [jreleaser-native-1.26.0-osx-x86_64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-osx-x86_64.zip) | 27.7 MiB | `native/darwin/x64` |
+| [jreleaser-native-1.26.0-osx-x86_64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-osx-x86_64.zip.asc) | 821 B | `native/darwin/x64` |
+| [jreleaser-native-1.26.0-windows-x86_64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-windows-x86_64.zip) | 28.4 MiB | `native/win/x64` |
+| [jreleaser-native-1.26.0-windows-x86_64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-native-1.26.0-windows-x86_64.zip.asc) | 821 B | `native/win/x64` |
+| [jreleaser-standalone-1.26.0-linux-aarch64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux-aarch64.zip) | 90.4 MiB | `native/linux/arm64` |
+| [jreleaser-standalone-1.26.0-linux-aarch64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux-aarch64.zip.asc) | 821 B | `native/linux/arm64` |
+| [jreleaser-standalone-1.26.0-linux-x86_64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux-x86_64.zip) | 90.7 MiB | `native/linux/x64` |
+| [jreleaser-standalone-1.26.0-linux-x86_64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux-x86_64.zip.asc) | 821 B | `native/linux/x64` |
+| [jreleaser-standalone-1.26.0-linux_musl-aarch64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux_musl-aarch64.zip) | 90.5 MiB | `native/linux/arm64/musl` |
+| [jreleaser-standalone-1.26.0-linux_musl-aarch64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux_musl-aarch64.zip.asc) | 821 B | `native/linux/arm64/musl` |
+| [jreleaser-standalone-1.26.0-linux_musl-x86_64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux_musl-x86_64.zip) | 91.4 MiB | `native/linux/x64/musl` |
+| [jreleaser-standalone-1.26.0-linux_musl-x86_64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-linux_musl-x86_64.zip.asc) | 821 B | `native/linux/x64/musl` |
+| [jreleaser-standalone-1.26.0-osx-aarch64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-osx-aarch64.zip) | 86.7 MiB | `native/darwin/arm64` |
+| [jreleaser-standalone-1.26.0-osx-aarch64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-osx-aarch64.zip.asc) | 821 B | `native/darwin/arm64` |
+| [jreleaser-standalone-1.26.0-osx-x86_64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-osx-x86_64.zip) | 87.9 MiB | `native/darwin/x64` |
+| [jreleaser-standalone-1.26.0-osx-x86_64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-osx-x86_64.zip.asc) | 821 B | `native/darwin/x64` |
+| [jreleaser-standalone-1.26.0-windows-aarch64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-windows-aarch64.zip) | 84.9 MiB | `native/win/arm64` |
+| [jreleaser-standalone-1.26.0-windows-aarch64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-windows-aarch64.zip.asc) | 821 B | `native/win/arm64` |
+| [jreleaser-standalone-1.26.0-windows-x86_64.zip](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-windows-x86_64.zip) | 87.1 MiB | `native/win/x64` |
+| [jreleaser-standalone-1.26.0-windows-x86_64.zip.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-standalone-1.26.0-windows-x86_64.zip.asc) | 821 B | `native/win/x64` |
+| [jreleaser-tool-provider-1.26.0.jar](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-tool-provider-1.26.0.jar) | 48.7 MiB | `other` |
+| [jreleaser-tool-provider-1.26.0.jar.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-tool-provider-1.26.0.jar.asc) | 821 B | `other` |
+| [VERSION](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/VERSION) | 7 B | `other` |
 
 ## 流行度
 
@@ -72,4 +134,4 @@ jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:25:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:18:58Z._
