@@ -31,8 +31,8 @@ Overall score: **6.9 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
-- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 1 | 0 | 5 | 2 | 26 |
-| last60d | 2026-07-14 | 2 | 4 | 1 | 6 | 2 | 32 |
-| 90d | 2026-06-14 | 3 | 6 | 1 | 11 | 3 | 55 |
-| last180d | 2026-03-16 | 4 | 21 | 1 | 30 | 11 | 114 |
-| 360d | 2025-09-17 | 7 | 47 | 1 | 75 | 23 | 258 |
-| last720d | 2024-09-22 | 13 | 88 | 2 | 186 | 47 | 559 |
+| 30d | 2026-08-14 | 2 | 1 | 0 | 5 | 2 | 26 |
+| last60d | 2026-07-15 | 2 | 4 | 1 | 6 | 2 | 31 |
+| 90d | 2026-06-15 | 3 | 6 | 1 | 11 | 3 | 55 |
+| last180d | 2026-03-17 | 4 | 20 | 1 | 30 | 11 | 109 |
+| 360d | 2025-09-18 | 7 | 47 | 1 | 75 | 23 | 258 |
+| last720d | 2024-09-23 | 13 | 88 | 2 | 186 | 47 | 558 |
 
 ## Release assets
 
@@ -146,4 +146,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:22:32Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:36:15Z._
