@@ -4,7 +4,7 @@
 
 :rocket: Release projects quickly and easily with JReleaser
 
-[![x-cmd/install — jreleaser Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jreleaser.svg)](https://x-cmd.com/install/jreleaser)
+[![x-cmd/install — jreleaser Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jreleaser.svg)](https://x-cmd.com/install/jreleaser)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,238 · **Forks**: 161 · **Open issues**: 1,332 · **Contributors**: 114
+- **Stars**: 1,238 · **Forks**: 160 · **Open issues**: 1,332 · **Contributors**: 114
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 281 · **Open PRs**: 4 · **Closed issues**: 1208 · **Open issues**: 124 · **Commits**: 3021
+- **Releases**: 47 · **Merged PRs**: 281 · **Open PRs**: 3 · **Closed issues**: 1208 · **Open issues**: 124 · **Commits**: 3021
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 1 | 1 | 2 | 4 | 24 |
-| last60d | 2026-07-24 | 2 | 4 | 2 | 6 | 4 | 31 |
-| 90d | 2026-06-24 | 3 | 6 | 2 | 11 | 5 | 36 |
-| last180d | 2026-03-26 | 4 | 14 | 2 | 27 | 12 | 103 |
-| 360d | 2025-09-27 | 7 | 42 | 2 | 74 | 24 | 249 |
-| last720d | 2024-10-02 | 13 | 86 | 3 | 184 | 49 | 556 |
+| 30d | 2026-08-24 | 2 | 1 | 0 | 2 | 4 | 24 |
+| last60d | 2026-07-25 | 2 | 4 | 1 | 6 | 4 | 31 |
+| 90d | 2026-06-25 | 3 | 6 | 1 | 10 | 5 | 36 |
+| last180d | 2026-03-27 | 4 | 13 | 1 | 26 | 12 | 103 |
+| 360d | 2025-09-28 | 7 | 42 | 1 | 74 | 24 | 249 |
+| last720d | 2024-10-03 | 13 | 86 | 2 | 184 | 49 | 556 |
 
 ## Release assets
 
@@ -137,4 +137,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:38:56Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:34:47Z._
