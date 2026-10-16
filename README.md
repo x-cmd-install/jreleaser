@@ -14,11 +14,11 @@ x install jreleaser
 
 ## Code insight
 
-Total: **140,276** lines of code across **1868** files in the top 5 languages.
+Total: **140,523** lines of code across **1868** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 107,697 | 28,282 | 23,603 | 1241 |
+| Java | 107,944 | 28,285 | 23,608 | 1241 |
 | Groovy | 18,771 | 7,190 | 4,128 | 328 |
 | Pan | 7,523 | 540 | 1,268 | 279 |
 | Json | 2,790 | 0 | 2 | 19 |
@@ -26,7 +26,7 @@ Total: **140,276** lines of code across **1868** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.9 / 10**
+Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access` (2026-08-31)
-- **Last commit**: 2026-09-05
+- **Last commit**: 2026-10-15
 - **Assets in release**: 58
 
 ## Popularity
 
-- **Stars**: 1,243 · **Forks**: 160 · **Open issues**: 1,335 · **Contributors**: 114
+- **Stars**: 1,244 · **Forks**: 160 · **Open issues**: 1,335 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 281 · **Open PRs**: 4 · **Closed issues**: 1208 · **Open issues**: 127 · **Commits**: 3021
+- **Releases**: 47 · **Merged PRs**: 283 · **Open PRs**: 3 · **Closed issues**: 1210 · **Open issues**: 125 · **Commits**: 3024
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 1 | 0 | 4 | 0 |
-| last60d | 2026-08-16 | 2 | 1 | 1 | 5 | 7 | 26 |
-| 90d | 2026-07-17 | 2 | 4 | 2 | 6 | 7 | 31 |
-| last180d | 2026-04-18 | 4 | 13 | 2 | 21 | 13 | 88 |
-| 360d | 2025-10-20 | 7 | 40 | 2 | 69 | 26 | 248 |
-| last720d | 2024-10-25 | 13 | 85 | 3 | 173 | 51 | 545 |
+| 30d | 2026-09-16 | 1 | 2 | 0 | 1 | 3 | 3 |
+| last60d | 2026-08-17 | 2 | 3 | 0 | 7 | 5 | 29 |
+| 90d | 2026-07-18 | 2 | 6 | 1 | 8 | 5 | 34 |
+| last180d | 2026-04-19 | 4 | 15 | 1 | 23 | 11 | 91 |
+| 360d | 2025-10-21 | 7 | 42 | 1 | 71 | 24 | 251 |
+| last720d | 2024-10-26 | 13 | 87 | 2 | 174 | 49 | 548 |
 
 ## Release assets
 
@@ -137,4 +137,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:23:25Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:19:00Z._
