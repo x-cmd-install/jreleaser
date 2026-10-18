@@ -31,8 +31,8 @@ x install jreleaser
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
-- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install jreleaser
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 1 | 2 | 0 | 4 | 0 | 0 |
-| last60d | 2026-08-18 | 2 | 3 | 0 | 10 | 2 | 0 |
-| 90d | 2026-07-19 | 2 | 6 | 1 | 11 | 2 | 0 |
-| last180d | 2026-04-20 | 4 | 15 | 1 | 26 | 8 | 0 |
-| 360d | 2025-10-22 | 7 | 42 | 1 | 74 | 20 | 0 |
-| last720d | 2024-10-27 | 13 | 87 | 2 | 177 | 46 | 553 |
+| 30d | 2026-09-18 | 1 | 2 | 0 | 3 | 0 | 8 |
+| last60d | 2026-08-19 | 2 | 3 | 0 | 8 | 2 | 32 |
+| 90d | 2026-07-20 | 2 | 6 | 1 | 11 | 2 | 39 |
+| last180d | 2026-04-21 | 4 | 15 | 1 | 26 | 8 | 95 |
+| 360d | 2025-10-23 | 7 | 42 | 1 | 74 | 19 | 248 |
+| last720d | 2024-10-28 | 13 | 87 | 2 | 177 | 46 | 553 |
 
 ## Release 资产
 
@@ -137,4 +137,4 @@ jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T04:09:39Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T04:16:53Z._
