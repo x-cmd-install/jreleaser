@@ -48,7 +48,7 @@ x install jreleaser
 
 ## 流行度
 
-- **Star**: 1,244 · **Fork**: 162 · **开放 issue**: 1,337 · **贡献者**: 116
+- **Star**: 1,245 · **Fork**: 162 · **开放 issue**: 1,337 · **贡献者**: 116
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install jreleaser
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 4 | 0 | 4 | 1 | 10 |
-| last60d | 2026-08-23 | 2 | 5 | 0 | 8 | 3 | 34 |
-| 90d | 2026-07-24 | 2 | 8 | 1 | 12 | 3 | 41 |
-| last180d | 2026-04-25 | 4 | 17 | 1 | 27 | 9 | 97 |
-| 360d | 2025-10-27 | 7 | 44 | 1 | 74 | 20 | 250 |
-| last720d | 2024-11-01 | 12 | 89 | 2 | 177 | 47 | 521 |
+| 30d | 2026-09-23 | 1 | 4 | 0 | 4 | 1 | 10 |
+| last60d | 2026-08-24 | 2 | 5 | 0 | 8 | 3 | 34 |
+| 90d | 2026-07-25 | 2 | 8 | 1 | 12 | 3 | 41 |
+| last180d | 2026-04-26 | 4 | 17 | 1 | 26 | 9 | 97 |
+| 360d | 2025-10-28 | 7 | 44 | 1 | 72 | 20 | 250 |
+| last720d | 2024-11-02 | 12 | 89 | 2 | 177 | 47 | 521 |
 
 ## Release 资产
 
@@ -128,6 +128,15 @@ x install jreleaser
 | [jreleaser-tool-provider-1.26.0.jar.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/jreleaser-tool-provider-1.26.0.jar.asc) | 821 B | `other` |
 | [VERSION](https://github.com/jreleaser/jreleaser/releases/download/v1.26.0/VERSION) | 7 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/jreleaser) 上共有 **7** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.26.0` | ✅ latest |
+| Alpine edge | `1.26.0` | ✅ latest |
+
 ## 改进这些数据
 
 jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jreleaser` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -137,4 +146,4 @@ jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:27:31Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:32:30Z._
