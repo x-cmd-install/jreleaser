@@ -26,13 +26,13 @@ x install jreleaser
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.1 / 10**
+总评分: **7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/29 approved changesets -- score normalized to 1
-- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
+- **Code-Review** (1/10) — Found 3/28 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install jreleaser
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 4 | 0 | 4 | 1 | 10 |
-| last60d | 2026-08-25 | 2 | 5 | 0 | 7 | 3 | 34 |
-| 90d | 2026-07-26 | 2 | 8 | 1 | 12 | 3 | 41 |
-| last180d | 2026-04-27 | 4 | 17 | 1 | 26 | 9 | 97 |
-| 360d | 2025-10-29 | 7 | 43 | 1 | 72 | 20 | 250 |
-| last720d | 2024-11-03 | 12 | 89 | 2 | 177 | 47 | 521 |
+| 30d | 2026-09-25 | 1 | 4 | 0 | 4 | 1 | 10 |
+| last60d | 2026-08-26 | 2 | 5 | 0 | 7 | 3 | 11 |
+| 90d | 2026-07-27 | 2 | 8 | 1 | 12 | 3 | 36 |
+| last180d | 2026-04-28 | 4 | 17 | 1 | 26 | 9 | 77 |
+| 360d | 2025-10-30 | 7 | 42 | 1 | 71 | 20 | 226 |
+| last720d | 2024-11-04 | 12 | 89 | 2 | 177 | 47 | 521 |
 
 ## Release 资产
 
@@ -146,4 +146,4 @@ jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261024.yml` · 2026-10-24T04:22:43Z._
+_数据快照: `data/card/261025.yml` · 2026-10-25T04:26:53Z._
