@@ -14,24 +14,24 @@ x install jreleaser
 
 ## 代码洞察
 
-合计: **140,547** 行代码（覆盖前 5 种语言、共 **1868** 个文件）。
+合计: **140,549** 行代码（覆盖前 5 种语言、共 **1868** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Java | 107,968 | 28,285 | 23,619 | 1241 |
 | Groovy | 18,771 | 7,190 | 4,128 | 328 |
-| Pan | 7,523 | 540 | 1,268 | 279 |
+| Pan | 7,525 | 540 | 1,268 | 279 |
 | Json | 2,790 | 0 | 2 | 19 |
 | Svg | 1,401 | 1 | 18 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7 / 10**
+总评分: **7.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/28 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CI-Tests** (-1/10) — no pull request found
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
 
 ## 源代码
@@ -43,7 +43,7 @@ x install jreleaser
 ## 发布
 
 - **最新版本**: `early-access` (2026-08-31)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 58 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install jreleaser
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 285 · **开放 PR**: 3 · **已关闭 issue**: 1214 · **开放 issue**: 123 · **提交数**: 3031
+- **发布数**: 47 · **已合并 PR**: 285 · **开放 PR**: 3 · **已关闭 issue**: 1214 · **开放 issue**: 123 · **提交数**: 3062
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 4 | 0 | 4 | 1 | 10 |
-| last60d | 2026-08-31 | 2 | 5 | 0 | 7 | 3 | 11 |
-| 90d | 2026-08-01 | 2 | 5 | 0 | 11 | 3 | 36 |
-| last180d | 2026-05-03 | 3 | 17 | 1 | 25 | 9 | 77 |
-| 360d | 2025-11-04 | 6 | 41 | 1 | 70 | 20 | 226 |
-| last720d | 2024-11-09 | 12 | 89 | 2 | 176 | 47 | 520 |
+| 30d | 2026-10-01 | 1 | 4 | 0 | 4 | 1 | 41 |
+| last60d | 2026-09-01 | 1 | 5 | 0 | 7 | 3 | 42 |
+| 90d | 2026-08-02 | 2 | 5 | 0 | 11 | 3 | 67 |
+| last180d | 2026-05-04 | 3 | 17 | 1 | 25 | 9 | 108 |
+| 360d | 2025-11-05 | 6 | 41 | 1 | 69 | 20 | 257 |
+| last720d | 2024-11-10 | 12 | 89 | 2 | 176 | 47 | 551 |
 
 ## Release 资产
 
@@ -146,4 +146,4 @@ jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T05:33:30Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T05:19:27Z._
