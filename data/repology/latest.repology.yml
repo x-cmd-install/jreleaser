@@ -5,7 +5,7 @@
   visiblename: jreleaser
   version: 1.26.0
   origversion: 1.26.0-r0
-  status: newest
+  status: outdated
   summary: Release projects quickly and easily with JReleaser
   maintainers:
     - aalmiray@yahoo.com
@@ -18,7 +18,7 @@
   visiblename: jreleaser-doc
   version: 1.26.0
   origversion: 1.26.0-r0
-  status: newest
+  status: outdated
   summary: Release projects quickly and easily with JReleaser (documentation)
   maintainers:
     - aalmiray@yahoo.com
@@ -41,12 +41,12 @@
   visiblename: JReleaser
   version: 1.26.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Release projects quickly and easily with JReleaser
 - repo: homebrew
   srcname: jreleaser
   visiblename: jreleaser
-  version: 1.26.0
+  version: 1.27.0
   origversion: null
   status: newest
   summary: Release projects quickly and easily with JReleaser
@@ -54,7 +54,7 @@
   srcname: devel/jreleaser
   binname: jreleaser
   visiblename: jreleaser
-  version: 1.26.0
+  version: 1.27.0
   origversion: null
   status: newest
   summary: Release projects quickly and easily with JReleaser
@@ -68,7 +68,7 @@
   subrepo: main
   binname: jreleaser
   visiblename: jreleaser
-  version: 1.26.0
+  version: 1.27.0
   origversion: null
   status: newest
   licenses:
