@@ -1,3 +1,10 @@
+- repo: chocolatey
+  binname: jreleaser
+  visiblename: JReleaser
+  version: 1.27.0
+  origversion: null
+  status: newest
+  summary: Release projects quickly and easily with JReleaser
 - repo: alpine_edge
   subrepo: testing
   srcname: jreleaser
@@ -36,13 +43,6 @@
     - fereira@aur
   licenses:
     - Apache-2.0
-- repo: chocolatey
-  binname: jreleaser
-  visiblename: JReleaser
-  version: 1.26.0
-  origversion: null
-  status: outdated
-  summary: Release projects quickly and easily with JReleaser
 - repo: homebrew
   srcname: jreleaser
   visiblename: jreleaser
