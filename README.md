@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,246 · **Forks**: 162 · **Open issues**: 1,337 · **Contributors**: 116
+- **Stars**: 1,246 · **Forks**: 162 · **Open issues**: 1,338 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 285 · **Open PRs**: 3 · **Closed issues**: 1214 · **Open issues**: 123 · **Commits**: 3065
+- **Releases**: 48 · **Merged PRs**: 285 · **Open PRs**: 3 · **Closed issues**: 1214 · **Open issues**: 124 · **Commits**: 3065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 4 | 0 | 4 | 1 | 44 |
-| last60d | 2026-09-04 | 2 | 4 | 0 | 6 | 3 | 44 |
-| 90d | 2026-08-05 | 3 | 5 | 0 | 11 | 3 | 70 |
-| last180d | 2026-05-07 | 4 | 17 | 1 | 25 | 9 | 107 |
-| 360d | 2025-11-08 | 7 | 41 | 1 | 68 | 20 | 259 |
-| last720d | 2024-11-13 | 13 | 85 | 2 | 175 | 47 | 554 |
+| 30d | 2026-10-05 | 2 | 4 | 0 | 4 | 2 | 44 |
+| last60d | 2026-09-05 | 2 | 4 | 0 | 6 | 4 | 44 |
+| 90d | 2026-08-06 | 3 | 5 | 0 | 11 | 4 | 70 |
+| last180d | 2026-05-08 | 4 | 17 | 1 | 25 | 10 | 107 |
+| 360d | 2025-11-09 | 7 | 41 | 1 | 68 | 21 | 259 |
+| last720d | 2024-11-14 | 13 | 83 | 2 | 174 | 48 | 548 |
 
 ## Release assets
 
@@ -146,4 +146,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:28:35Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T05:59:59Z._
