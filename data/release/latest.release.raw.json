@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 43518607,
       "digest": "sha256:3e9b9131ad4e8445b007c234d219ea09482f59aaeb891b12bfec4e16c7cdfa44",
-      "download_count": 111,
+      "download_count": 121,
       "created_at": "2026-10-31T09:24:52Z",
       "updated_at": "2026-10-31T09:24:54Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-1.27.0.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 25303,
       "digest": "sha256:c1ecea7a627f5fcb0ae87dc7d11b3b33ed91131ca08cbfa94f53fa5f340198a4",
-      "download_count": 38,
+      "download_count": 54,
       "created_at": "2026-10-31T09:41:16Z",
       "updated_at": "2026-10-31T09:41:17Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-all-1.27.0.intoto.jsonl"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 90571576,
       "digest": "sha256:75aba318eed6962a4bf79dd6e74413b67b7cfae3887d881b7e744e1f1ca4f636",
-      "download_count": 83,
+      "download_count": 95,
       "created_at": "2026-10-31T09:25:15Z",
       "updated_at": "2026-10-31T09:25:17Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-installer-1.27.0-windows-x86_64.msi"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 30435658,
       "digest": "sha256:53ff94e31de7b1f06b1e6decb5009d0ae422904b719157157d6338d736290e99",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-31T09:25:25Z",
       "updated_at": "2026-10-31T09:25:27Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-native-1.27.0-linux-aarch64.zip"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 30124363,
       "digest": "sha256:23e33008977c309e92081e64c1b41376f1c1d248b4878ececacbdf66e4745e69",
-      "download_count": 15,
+      "download_count": 19,
       "created_at": "2026-10-31T09:25:28Z",
       "updated_at": "2026-10-31T09:25:29Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-native-1.27.0-linux-x86_64.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 30210514,
       "digest": "sha256:ca582f8712c4f79465851009c108e30803e0241a75621afca61df7a903b31426",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-31T09:25:30Z",
       "updated_at": "2026-10-31T09:25:31Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-native-1.27.0-osx-aarch64.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 29273612,
       "digest": "sha256:b8565326296839e4165bdd9d78fa0847a21e0b68721b773c0755620971c7bae1",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-31T09:25:31Z",
       "updated_at": "2026-10-31T09:25:33Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-native-1.27.0-osx-x86_64.zip"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 29993238,
       "digest": "sha256:d8c508c3ba10fe17497c9b6a7bb17caea2ddb5fe6afd9ab2184c2389ca2ccdb5",
-      "download_count": 13,
+      "download_count": 19,
       "created_at": "2026-10-31T09:25:33Z",
       "updated_at": "2026-10-31T09:25:35Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-native-1.27.0-windows-x86_64.zip"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 48357069,
       "digest": "sha256:ed2c86583cca6fdbb9baaeaa2f135a10f7a74092b6200e0d604738b22c6bd52f",
-      "download_count": 317,
+      "download_count": 384,
       "created_at": "2026-10-31T09:26:04Z",
       "updated_at": "2026-10-31T09:26:05Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-tool-provider-1.27.0.jar"
