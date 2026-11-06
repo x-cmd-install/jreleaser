@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `early-access` (2026-10-31)
+- **Latest**: `2.0.0-SNAPSHOT` (2026-10-31)
 - **Last commit**: 2026-10-31
 - **Assets in release**: 58
 
 ## Popularity
 
-- **Stars**: 1,247 · **Forks**: 162 · **Open issues**: 1,338 · **Contributors**: 116
+- **Stars**: 1,247 · **Forks**: 162 · **Open issues**: 1,342 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 285 · **Open PRs**: 3 · **Closed issues**: 1214 · **Open issues**: 124 · **Commits**: 3065
+- **Releases**: 49 · **Merged PRs**: 285 · **Open PRs**: 3 · **Closed issues**: 1214 · **Open issues**: 128 · **Commits**: 3065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 4 | 0 | 4 | 2 | 44 |
-| last60d | 2026-09-06 | 2 | 4 | 0 | 6 | 4 | 44 |
-| 90d | 2026-08-07 | 3 | 5 | 0 | 11 | 4 | 70 |
-| last180d | 2026-05-09 | 4 | 17 | 1 | 25 | 10 | 107 |
-| 360d | 2025-11-10 | 7 | 41 | 1 | 68 | 21 | 259 |
-| last720d | 2024-11-15 | 13 | 83 | 2 | 174 | 48 | 544 |
+| 30d | 2026-10-07 | 3 | 4 | 0 | 4 | 6 | 44 |
+| last60d | 2026-09-07 | 3 | 4 | 0 | 6 | 8 | 44 |
+| 90d | 2026-08-08 | 4 | 5 | 0 | 11 | 8 | 70 |
+| last180d | 2026-05-10 | 5 | 17 | 1 | 25 | 14 | 107 |
+| 360d | 2025-11-11 | 8 | 41 | 1 | 68 | 25 | 259 |
+| last720d | 2024-11-16 | 14 | 83 | 2 | 173 | 52 | 543 |
 
 ## Release assets
 
@@ -130,12 +130,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/jreleaser). **4** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/jreleaser). **6** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `1.27.0` | ✅ latest |
-| Alpine edge | `1.26.0` | ⚠️ outdated |
+| Alpine edge | `1.27.0` | ✅ latest |
 
 ## Improve this data
 
@@ -146,4 +146,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:26:15Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:20:32Z._
