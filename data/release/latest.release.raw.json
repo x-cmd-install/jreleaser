@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2561,
       "digest": "sha256:6ff2c80ca6e678861504db834f29bfb51d1353a36eca5aba3fad3578e14f221f",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-31T09:24:48Z",
       "updated_at": "2026-10-31T09:24:48Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/checksums_sha256.txt"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 43518607,
       "digest": "sha256:3e9b9131ad4e8445b007c234d219ea09482f59aaeb891b12bfec4e16c7cdfa44",
-      "download_count": 170,
+      "download_count": 184,
       "created_at": "2026-10-31T09:24:52Z",
       "updated_at": "2026-10-31T09:24:54Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-1.27.0.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 90571576,
       "digest": "sha256:75aba318eed6962a4bf79dd6e74413b67b7cfae3887d881b7e744e1f1ca4f636",
-      "download_count": 111,
+      "download_count": 114,
       "created_at": "2026-10-31T09:25:15Z",
       "updated_at": "2026-10-31T09:25:17Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-installer-1.27.0-windows-x86_64.msi"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 88285622,
       "digest": "sha256:b7c1ee7344c318ee76e0215b54c33363ea6fd810f17891dd24c673e36246395e",
-      "download_count": 20,
+      "download_count": 31,
       "created_at": "2026-10-31T09:25:18Z",
       "updated_at": "2026-10-31T09:25:21Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-installer_1.27.0-1_amd64.deb"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 30124363,
       "digest": "sha256:23e33008977c309e92081e64c1b41376f1c1d248b4878ececacbdf66e4745e69",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-10-31T09:25:28Z",
       "updated_at": "2026-10-31T09:25:29Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-native-1.27.0-linux-x86_64.zip"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 48357069,
       "digest": "sha256:ed2c86583cca6fdbb9baaeaa2f135a10f7a74092b6200e0d604738b22c6bd52f",
-      "download_count": 536,
+      "download_count": 549,
       "created_at": "2026-10-31T09:26:04Z",
       "updated_at": "2026-10-31T09:26:05Z",
       "browser_download_url": "https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-tool-provider-1.27.0.jar"
