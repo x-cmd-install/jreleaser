@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,250 · **Forks**: 161 · **Open issues**: 1,342 · **Contributors**: 116
+- **Stars**: 1,249 · **Forks**: 161 · **Open issues**: 1,342 · **Contributors**: 116
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 3 | 4 | 0 | 3 | 4 | 41 |
-| last60d | 2026-09-14 | 3 | 5 | 0 | 8 | 4 | 44 |
-| 90d | 2026-08-15 | 4 | 6 | 0 | 13 | 6 | 70 |
-| last180d | 2026-05-17 | 5 | 18 | 1 | 27 | 11 | 107 |
-| 360d | 2025-11-18 | 8 | 42 | 1 | 69 | 23 | 259 |
-| last720d | 2024-11-23 | 14 | 84 | 2 | 174 | 49 | 543 |
+| 30d | 2026-10-15 | 3 | 3 | 0 | 3 | 4 | 41 |
+| last60d | 2026-09-15 | 3 | 5 | 0 | 7 | 4 | 44 |
+| 90d | 2026-08-16 | 4 | 6 | 0 | 13 | 6 | 70 |
+| last180d | 2026-05-18 | 5 | 18 | 1 | 27 | 11 | 107 |
+| 360d | 2025-11-19 | 8 | 42 | 1 | 69 | 23 | 259 |
+| last720d | 2024-11-24 | 14 | 84 | 2 | 174 | 49 | 540 |
 
 ## Release assets
 
@@ -146,4 +146,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:22:55Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:05:08Z._
