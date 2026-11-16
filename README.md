@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 286 · **Open PRs**: 3 · **Closed issues**: 1217 · **Open issues**: 125 · **Commits**: 3065
+- **Releases**: 49 · **Merged PRs**: 286 · **Open PRs**: 4 · **Closed issues**: 1217 · **Open issues**: 125 · **Commits**: 3065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 3 | 3 | 0 | 3 | 4 | 34 |
-| last60d | 2026-09-16 | 3 | 5 | 0 | 7 | 4 | 44 |
-| 90d | 2026-08-17 | 4 | 6 | 0 | 13 | 6 | 70 |
-| last180d | 2026-05-19 | 5 | 17 | 1 | 26 | 11 | 106 |
-| 360d | 2025-11-20 | 8 | 42 | 1 | 68 | 23 | 254 |
-| last720d | 2024-11-25 | 14 | 84 | 2 | 174 | 49 | 540 |
+| 30d | 2026-10-17 | 3 | 3 | 1 | 3 | 4 | 34 |
+| last60d | 2026-09-17 | 3 | 5 | 1 | 7 | 4 | 44 |
+| 90d | 2026-08-18 | 4 | 6 | 1 | 13 | 6 | 70 |
+| last180d | 2026-05-20 | 5 | 17 | 2 | 26 | 10 | 106 |
+| 360d | 2025-11-21 | 8 | 42 | 2 | 67 | 23 | 254 |
+| last720d | 2024-11-26 | 14 | 84 | 3 | 173 | 49 | 540 |
 
 ## Release assets
 
@@ -146,4 +146,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:09:06Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:08:34Z._
