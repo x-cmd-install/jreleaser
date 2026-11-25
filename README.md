@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 1 | 1 | 2 | 3 | 34 |
-| last60d | 2026-09-25 | 3 | 5 | 1 | 6 | 4 | 44 |
-| 90d | 2026-08-26 | 4 | 6 | 1 | 9 | 6 | 47 |
-| last180d | 2026-05-28 | 5 | 12 | 2 | 21 | 8 | 99 |
-| 360d | 2025-11-29 | 8 | 42 | 2 | 66 | 22 | 253 |
-| last720d | 2024-12-04 | 14 | 84 | 3 | 173 | 48 | 539 |
+| 30d | 2026-10-26 | 3 | 1 | 1 | 2 | 3 | 34 |
+| last60d | 2026-09-26 | 3 | 5 | 1 | 6 | 4 | 44 |
+| 90d | 2026-08-27 | 4 | 6 | 1 | 9 | 6 | 47 |
+| last180d | 2026-05-29 | 5 | 11 | 2 | 20 | 8 | 99 |
+| 360d | 2025-11-30 | 8 | 42 | 2 | 66 | 22 | 253 |
+| last720d | 2024-12-05 | 14 | 84 | 3 | 171 | 48 | 539 |
 
 ## Release assets
 
@@ -146,4 +146,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:42:28Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:13:08Z._
