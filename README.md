@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 1 | 1 | 2 | 3 | 34 |
-| last60d | 2026-09-26 | 3 | 5 | 1 | 6 | 4 | 44 |
-| 90d | 2026-08-27 | 4 | 6 | 1 | 9 | 6 | 47 |
-| last180d | 2026-05-29 | 5 | 11 | 2 | 20 | 8 | 99 |
-| 360d | 2025-11-30 | 8 | 42 | 2 | 66 | 22 | 253 |
-| last720d | 2024-12-05 | 14 | 84 | 3 | 171 | 48 | 539 |
+| 30d | 2026-10-27 | 3 | 1 | 1 | 2 | 3 | 34 |
+| last60d | 2026-09-27 | 3 | 5 | 1 | 6 | 4 | 44 |
+| 90d | 2026-08-28 | 4 | 6 | 1 | 9 | 6 | 47 |
+| last180d | 2026-05-30 | 5 | 11 | 2 | 20 | 8 | 99 |
+| 360d | 2025-12-01 | 8 | 42 | 2 | 66 | 22 | 253 |
+| last720d | 2024-12-06 | 14 | 84 | 3 | 171 | 48 | 538 |
 
 ## Release assets
 
@@ -128,15 +128,6 @@ Lowest-scoring checks:
 | [jreleaser-tool-provider-1.27.0.jar.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-tool-provider-1.27.0.jar.asc) | 821 B | `other` |
 | [VERSION](https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/VERSION) | 7 B | `other` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/jreleaser). **6** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.27.0` | ✅ latest |
-| Alpine edge | `1.27.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jreleaser` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -146,4 +137,4 @@ Install metadata for jreleaser lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:13:08Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:02:53Z._

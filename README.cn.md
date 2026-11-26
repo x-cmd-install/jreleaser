@@ -58,12 +58,12 @@ x install jreleaser
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 1 | 1 | 2 | 3 | 34 |
-| last60d | 2026-09-26 | 3 | 5 | 1 | 6 | 4 | 44 |
-| 90d | 2026-08-27 | 4 | 6 | 1 | 9 | 6 | 47 |
-| last180d | 2026-05-29 | 5 | 11 | 2 | 20 | 8 | 99 |
-| 360d | 2025-11-30 | 8 | 42 | 2 | 66 | 22 | 253 |
-| last720d | 2024-12-05 | 14 | 84 | 3 | 171 | 48 | 539 |
+| 30d | 2026-10-27 | 3 | 1 | 1 | 2 | 3 | 34 |
+| last60d | 2026-09-27 | 3 | 5 | 1 | 6 | 4 | 44 |
+| 90d | 2026-08-28 | 4 | 6 | 1 | 9 | 6 | 47 |
+| last180d | 2026-05-30 | 5 | 11 | 2 | 20 | 8 | 99 |
+| 360d | 2025-12-01 | 8 | 42 | 2 | 66 | 22 | 253 |
+| last720d | 2024-12-06 | 14 | 84 | 3 | 171 | 48 | 538 |
 
 ## Release 资产
 
@@ -128,15 +128,6 @@ x install jreleaser
 | [jreleaser-tool-provider-1.27.0.jar.asc](https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/jreleaser-tool-provider-1.27.0.jar.asc) | 821 B | `other` |
 | [VERSION](https://github.com/jreleaser/jreleaser/releases/download/v1.27.0/VERSION) | 7 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/jreleaser) 上共有 **7** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.27.0` | ✅ latest |
-| Alpine edge | `1.27.0` | ✅ latest |
-
 ## 改进这些数据
 
 jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jreleaser` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -146,4 +137,4 @@ jreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:13:08Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:02:54Z._
